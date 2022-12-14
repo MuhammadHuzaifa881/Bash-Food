@@ -1,0 +1,221 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    height: 2310px;
+    width: 100%;
+    background-image: url(./Pictures/Start-Sliding/1.jpg);
+    background-repeat: no-repeat;
+    animation-name: myani;
+    animation-duration: 12s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+div.transbox {
+    background-color: white;
+    opacity: 0.3; 
+    
+  }
+  @keyframes myani{
+    0%{background-image: url(./Pictures/Start-Sliding/1.jpg)}
+    10%{ background-image: url(./Pictures/Start-Sliding/2.jpg)}
+    25%{ background-image: url(./Pictures/Start-Sliding/3.jpg)}
+    40%{ background-image: url(./Pictures/Start-Sliding/4.jpg)}
+    70%{ background-image: url(./Pictures/Start-Sliding/5.jpg)}
+    88%{ background-image: url(./Pictures/Start-Sliding/6.jpg)}
+  }
+.BashFood{
+    font-size: 80px;
+    font-weight: bold;
+    font-family: 'IBM Plex Sans Condensed', sans-serif;
+    text-decoration: none;
+    color: white;
+  }
+.div1{
+    
+    margin-top: 60px;
+    margin-left: 100px;
+  }
+.Home{
+    margin-left: 2200px;
+    font-size: 80px;
+    font-weight: bold;
+    text-decoration: none;
+    color: white; 
+  }
+.About{
+    margin-left: 140px;
+    font-size: 80px;
+    font-weight: bold;
+    text-decoration: none;
+    color: white; 
+  }
+.Menu{
+    margin-left: 140px;
+    font-size: 80px;
+    font-weight: bold;
+    text-decoration: none;
+    color: white; 
+  }
+.Stories{
+    margin-left: 140px;
+    font-size: 80px;
+    font-weight: bold;
+    text-decoration: none;
+    color: white; 
+  }
+.Contact{
+    margin-left: 140px;
+    font-size: 80px;
+    font-weight: bold;
+    text-decoration: none;
+    color: white; 
+  }
+.BookATable{
+    margin-left: 140px;
+    font-size: 80px;
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+    border-color: #c8a97e; 
+    border-style: dashed;
+    border-width: 25px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    background-color: #c8a97e;
+    border-radius: 20px;
+}
+.label1{
+    font-family: 'Wallpoet', 'cursive'; 
+    text-align: center;
+    font-size: 200px; 
+    color: white;
+    margin-left: 2000px;
+}
+.label2{
+    font-family: 'Wallpoet', 'cursive';
+    font-size: 300px;
+    margin-left: 800px;
+    color: #c8a97e;
+}
+.div2{
+    margin-left: 2800px;
+    margin-top: 500px;
+}
+.div3{
+    margin-left: 100px;
+    font-family: 'Lobster Two', 'cursive';
+    font-size: 100px;
+    color: #c8a97e;
+}
+.label3{
+    padding-top: 200px;
+    font-size: 200px;
+    font-family: 'Lobster Two', 'cursive';
+    color: #c8a97e;
+}
+.pretag1{
+    font-family: 'Lobster Two', 'cursive';
+    font-size: 100px;
+}
+.label4{
+    font-size: 200px;
+}
+.label5{
+    font-size: 200px;
+}
+.label6{
+    font-family: 'Lobster Two', 'cursive';
+    font-size: 100px;
+}
+.label7{
+    font-family: 'Lobster Two', 'cursive';
+    font-size: 100px;
+    color: #c8a97e;
+}
+.label8{
+    margin-left: 2000px;
+    font-family: 'Lobster Two', 'cursive';
+    font-size: 500px;
+    color: #c8a97e;
+}
+.label9{
+    font-size: 200px;
+    margin-left: 2000px;
+}
+.label10{
+    margin-left: 2000px;
+    font-size: 150px;
+    font-weight: bold;
+}
+.label11{
+    margin-left: 2000px;
+    font-size: 150px;
+    font-weight: bold;
+}
+.label12{
+    margin-left: 2000px;
+    font-size: 150px;
+    font-weight: bold;
+}
+.div4{
+    margin-top: 80px;
+}
+.label13{
+    margin-left: 2000px;
+    font-size: 300px;
+    font-weight: bold;
+    font-family: 'Lobster Two', 'cursive';
+    color: #c8a97e;
+}
+.label14{
+    margin-left: 2000px;
+    font-size: 150px;
+}
+.div5{
+    flex-direction:row;
+    margin-left: 1400px;
+    margin-top: 100px;
+}
+.div6{
+    margin-top: 10px;
+    margin-left:3200px;
+}
+.div7{
+    margin-top: -220px;
+    margin-left:2800px;
+}
+.div8{
+    margin-top: -180px;
+    margin-left:2400px;
+}
+.div9{
+    margin-top: -160px;
+    margin-left:1900px;
+}
+.div10{
+    margin-top: -160px;
+    margin-left:1500px;
+    
+}
+.Add-to-buy:hover{
+    color: white;
+    background-color: #c8a97e;
+    transition: 0.9ms;
+    
+}
+.Add-to-buy{
+    width: 300px;
+    height: 100px;
+    font-size: 50px;
+}
+.p1{
+    font-size: 25px;
+}
+.p2{
+    font-size: 30px;
+    margin-top: 20px;
+    margin-left: 60px;
+}

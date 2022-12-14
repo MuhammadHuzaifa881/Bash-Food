@@ -1,0 +1,30 @@
+.main-box{
+    margin-top: 100px;
+    margin-left: 250px;
+}
+.label-1{
+    margin-left: 230px;
+    margin-top: 10px;
+}
+.box1{
+    align-items: center;
+    width: 560px;
+    height: 280px;
+    background-color: burlywood;
+}
+.box2{
+    height: 200px;
+    width: 300px;
+    background-color: skyblue;
+    margin-left: 150px;
+    margin-top: 30px;
+    margin-left: 130px;
+}
+.box3{
+    text-align: center;
+    height: 150px;
+    width: 180px;
+    background-color: greenyellow;
+    margin-left: 50px;
+    margin-top: 20px;  
+}

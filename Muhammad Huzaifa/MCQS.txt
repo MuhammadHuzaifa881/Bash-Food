@@ -1,0 +1,33 @@
+Section I – MCQs
+
+Encircle the correct answer out of the given options. Cutting or overwriting will result in no marks. [Mark: 10]
+
+1. Which of the following tag is used for inserting the largest heading in HTML?
+a) <h1>
+
+2. Which element is used for styling HTML layout?
+c) CSS
+
+3. If we want to define a style for a unique element, then which CSS selector will we use?
+a) id
+
+4. How can we write comments along with CSS code?
+b) <!-- comment -->
+
+5. Which of the following class is used to create a black navigation bar?
+b) .navbar-inverse
+
+6. Is it true that the Bootstrap grid system works across multiple devices? 
+a) True 
+
+7. The tag used to draw a horizontal line is 
+d) <HR> 
+
+8. The last line of the HTML document is 
+d) </HTML> 
+
+9. If we want define style for an unique element, then which css selector will we use ? 
+a) id 
+
+10. Which css property you will use if you want to add some space between a DIV's border and its inner text ? 
+c) padding 
